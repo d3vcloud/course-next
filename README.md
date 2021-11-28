@@ -6,12 +6,10 @@ Learning Next for first time
 
 ```
 npm run dev
-
 ```
 
 ### Run in production:
 
 ```
 npm start
-
 ```
